@@ -57,9 +57,9 @@ h1.title {
 }
 
 .gray {
-    background-color: #e9e6e6;
+    background-color: #991313;
 }
-
+ ## alterei a cor do fundo
 .container {
     max-width: 1000px;
     margin: auto;
